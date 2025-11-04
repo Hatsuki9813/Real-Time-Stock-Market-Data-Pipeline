@@ -1,0 +1,4 @@
+ticker,name,exchange_short,exchange_long,mic_code,currency,price,day_high,day_low,day_open,52_week_high,52_week_low,market_cap,previous_close_price,previous_close_price_time,day_change,volume,is_extended_hours_price,last_trade_time
+NVDA,NVIDIA Corporation,,,IEXG,USD,202.39,207.96,202.08,206.42,,,,202.89,2025-10-30T15:59:58.000000,-0.25,3616957,False,2025-10-31T16:00:00.000000
+AMD,"Advanced Micro Devices, Inc.",,,IEXG,USD,256.06,262.07,253.5,259.6,,,,254.87,2025-10-30T16:00:00.000000,0.46,628143,False,2025-10-31T15:59:58.000000
+INTC,Intel Corporation,,,IEXG,USD,39.98,40.82,39.79,40.64,,,,40.13,2025-10-30T16:00:00.000000,-0.38,2304631,False,2025-10-31T16:00:00.000000
