@@ -1,0 +1,3 @@
+boto3==1.40.64
+ipykernel==6.31.0
+kafka-python==2.2.15
